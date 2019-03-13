@@ -3,7 +3,7 @@
   "version": "1.17.0-dev",
   "description": "Prettier is an opinionated code formatter",
   "bin": {
-    "prettier": "./bin/prettier.js"
+    "prettier-with-html": "./bin/prettier.js"
   },
   "repository": "shotgunsoftware/prettier-with-html",
   "homepage": "https://prettier.io",
