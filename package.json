@@ -5,7 +5,7 @@
   "bin": {
     "prettier": "./bin/prettier.js"
   },
-  "repository": "prettier/prettier",
+  "repository": "shotgunsoftware/prettier-with-html",
   "homepage": "https://prettier.io",
   "author": "James Long",
   "license": "MIT",
